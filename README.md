@@ -2,6 +2,8 @@
 
 A real-time cryptocurrency monitoring solution built using **Microsoft Fabric**, **Power BI**, and **Data Activator**. This project ingests live data from the CoinGecko API, analyzes trends and spikes in coin prices, and sends alerts when price surges occur.
 
+Special thank you to [DAElites Global Community](https://www.linkedin.com/company/daelites-community/) for the opportunity to learn.
+
 ---
 
 ## 🌎 Project Overview
