@@ -140,10 +140,11 @@ git clone https://github.com/elijaydot/Crypto-API-Alerting-MSFabric.git
 ## 📷 Screenshot Highlights
 
 - Power BI dashboard full view![Power BI dashboard](Dashboard/CryptoPriceMonitoringDashboard.png)
-- Data Activator rule setup MS Teams ![Data Activator rule setup MS Teams](Assets/Data Activator rule setup-MS Teams Alert.png)
-- Data Activator rule setup Email ![Data Activator rule setup Email](Assets/Data Activator rule setup-Email Alert.png.png)
-- Sample alert in MS Teams ![Sample alert in MS Teams](Assets/Alert Teams Notification.png)
-- Sample alert in Email ![Sample alert in Email](Assets/Alert Email Notification.png)
+- Data Activator rule setup MS Teams![Data Activator rule setup MS Teams](Assets/DataActivatorRuleSetup-MSTeamsAlert.png)
+- Data Activator rule setup Email![Data Activator rule setup Email](Assets/DataActivatorRuleSetup-EmailAlert.png)
+- Sample alert in MS Teams
+  - ![Sample alert in MS Teams](Assets/AlertTeamsNotification.png)
+- Sample alert in Email![Sample alert in Email](Assets/AlertEmailNotification.png) 
 
 ---
 
